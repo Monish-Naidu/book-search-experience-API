@@ -16,3 +16,5 @@
 * See which books are loaned out and to whom; also see whether they have returned them on time or not
  
 
+## Technologies
+* Python/Flask, Swagger, PostgreSQL, reactJs 
